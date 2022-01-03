@@ -1,0 +1,12 @@
+game_config:
+    speed: 10
+    grid_size: (150, 250)
+
+pattern_config:
+    base: Custom
+
+filepaths:
+    resources:
+        path: resources
+        patterns:
+            path: patterns
