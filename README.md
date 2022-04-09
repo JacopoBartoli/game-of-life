@@ -1,5 +1,5 @@
 # Conway's Game of Life
-Python implementation of the Conway's Game of Life usi PyQt5.
+Python implementation of the Conway's Game of Life using PyQt5.
 
 ## Game of Life
 The Game of Life is a grid sistem composed by cells which can assume a finite number of states. The state of each cell is determined by a set of rules applied to cells and their neighborhood.
