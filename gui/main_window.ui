@@ -170,7 +170,7 @@
             <item row="0" column="0">
              <widget class="QPushButton" name="button_clear">
               <property name="text">
-               <string>Clear</string>
+               <string>Reset</string>
               </property>
              </widget>
             </item>
