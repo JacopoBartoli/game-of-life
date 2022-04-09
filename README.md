@@ -39,9 +39,9 @@ Besides the classical black and white representation of alive and dead cells, th
 - Pattern can also be loaded from [here](https://conwaylife.com/wiki/Category:Patterns).
 Right now just the [plaintext format](https://www.conwaylife.com/wiki/Plaintext) is supported
 - Fixed sized grid.
-The grid size can be edited using the [config.yml](./config.yml) file.
-- Provide information of the game commands and rules.
-- Provide general information about the game.
+The grid size can be edited using the [config.yml](./config.yml) file
+- Provide information of the game commands and rules
+- Provide general information about the game
 
 ### Requirements
 The dependencies can be install with the following command:
