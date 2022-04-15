@@ -1,5 +1,5 @@
 game_config:
-    speed: 10
+    speed: 15
     grid_size: (150, 250)
 
 pattern_config:
