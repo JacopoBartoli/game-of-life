@@ -18,12 +18,9 @@ At each timestep the grid states is updated applying the following rules:
 ![image info](./resources/images/rule4.png)
 
 ## Implementation
-![gif_info](./resources/images/examples.gif)
-
-
-
 
 ### Graphical User Interface
+![alt text](./resources/images/example.gif)
 
 ### Features
 - Start and Pause the simulation
