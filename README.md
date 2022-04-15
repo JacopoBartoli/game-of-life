@@ -8,7 +8,13 @@ For further info check the [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_
 
 ## Rules
 The original Conway's Game of Life is defined over a infinite grid of cells with only two states: alive or dead.
+
 At each timestep the grid states is updated applying the following rules:
+
+- Each living cell with one or zero living neighbors dies
+- Each living cell with four or more living neighbors dies
+- Each living cell with two or three living neighbors survives
+- Each dead cell will be born if it has exactly three living neighbors
 
 ![image info](./resources/images/rule1.png)
 ![image info](./resources/images/rule2.png)
